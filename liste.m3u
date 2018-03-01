@@ -9,7 +9,7 @@ http://cmghlslive-i.akamaihd.net/hls/live/224711/WFTV/master.m3u8?X-Anvato-Adst-
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/875407163765604352/LvOf_pgf_400x400.jpg",ABC NEWS (USA)
 http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8?sd=10&b=1200&rebase=on
 
-#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/-7wnIJ627Y6c/AAAAAAAAAAI/AAAAAAAAAAA/2wZTX5AFep4/s900-c-k-no-mo-rj-c0xffffff/photo.jpg", Arirang TV (Corée)
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/-7wnIJ627Y6c/AAAAAAAAAAI/AAAAAAAAAAA/2wZTX5AFep4/s900-c-k-no-mo-rj-c0xffffff/photo.jpg",Arirang TV (Corée)
 http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://signeportneuf.com/repertoireFournisseurs/Logo_Assemblee_nationale_183x96.JPG",Assemblée Nationale du Québec (CANADA)
@@ -100,7 +100,7 @@ http://hlslive.lcdn.une.net.co:80/v1/AUTH_HLSLIVE/TV5/tu1_manifest.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/649226291506475008/bhxaORhF.png",TV5 Monde - Info
 http://v3plusinfo247hls-i.akamaihd.net/hls/live/218877/v3plusinfo247hls/v3plusinfo247hls_1_1.m3u8
 
-#EXTINF:-1 tvg-logo="https://lh6.googleusercontent.com/-hmy3hsRv7T0/AAAAAAAAAAI/AAAAAAAAj6E/X_aY_wYBrFg/s0-c-k-no-ns/photo.jpg", The Weather Channel (USA)
+#EXTINF:-1 tvg-logo="https://lh6.googleusercontent.com/-hmy3hsRv7T0/AAAAAAAAAAI/AAAAAAAAj6E/X_aY_wYBrFg/s0-c-k-no-ns/photo.jpg",The Weather Channel (USA)
 https://weather-lh.akamaihd.net/i/twc_1@92006/master.m3u8 
 
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51zTIXN1jCL.png",Weather Nation (USA)

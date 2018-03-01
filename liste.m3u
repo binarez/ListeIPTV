@@ -1,0 +1,159 @@
+#EXTM3U
+ 
+#EXTINF:-1 tvg-shift="-0" tvg-id="" tvg-name="FR AB3" tvg-logo="https://pbs.twimg.com/profile_images/715553536797491201/TXJV2KD2_400x400.jpg",AB3 (EUROPE)
+http://live-trl101.abweb.com/liveabtrl101/ngrp:ab3.stream_bis/chunklist_b1096000.m3u8
+
+#EXTINF:-1 tvg-logo="https://static1.squarespace.com/static/5048e660e4b0bd178ab35a57/t/555f0d58e4b0bd5f4da97bc3/1432292696953/",ABC - WFTV Channel 9 (USA)
+http://cmghlslive-i.akamaihd.net/hls/live/224711/WFTV/master.m3u8?X-Anvato-Adst-Auth=KfkOPy1Ew3GWiQB367aCTF7zNU+PDSTj9Gp/F+8gid+Lfgflkt25rtDgDmnYPjoZ
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/875407163765604352/LvOf_pgf_400x400.jpg",ABC NEWS (USA)
+http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8?sd=10&b=1200&rebase=on
+
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/-7wnIJ627Y6c/AAAAAAAAAAI/AAAAAAAAAAA/2wZTX5AFep4/s900-c-k-no-mo-rj-c0xffffff/photo.jpg", Arirang TV (Corée)
+http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://signeportneuf.com/repertoireFournisseurs/Logo_Assemblee_nationale_183x96.JPG",Assemblée Nationale du Québec (CANADA)
+http://diffusionm4.assnat.qc.ca/canal9/250.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.nioulasco.com/wp-content/uploads/2016/04/bfm-business.png",BFM Business (EUROPE)
+http://bfmlive-i.akamaihd.net/hls/live/254438/876450612001/DVMR_BFMBusiness2/master-4.m3u8
+
+#EXTINF:-1 tvg-logo="http://publications.mcgill.ca/reporter/files/2016/02/LogoCanalSavoir09_Blanc.jpg",CANAL SAVOIR (CANADA)
+http://stream.canalsavoir.tv/livestream/stream.m3u8
+
+#EXTINF: -1 tvg-logo="",CBS (USA)
+http://cmghlslive-i.akamaihd.net/hls/live/224714/WJAX/904k/prog.m3u8
+
+#EXTINF:-1 tvg-logo="https://pmcdeadline2.files.wordpress.com/2011/05/cbs_news_logo_20110519185200.jpg",CBS news (USA)
+http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/index_1200_av-b.m3u8?sd=10&rebase=on
+
+#EXTINF:-1 tvg-logo="http://20549-presscdn.pagely.netdna-cdn.com/wp-content/uploads/cpac_social_seo_logo_bil_1200x630.jpg",CPAC (CANADA)
+http://bcoveliveios-i.akamaihd.net/hls/live/248519/1242843915001_1/master.m3u8
+
+#EXTINF:-1 tvg-id=""  tvg-logo="https://pbs.twimg.com/profile_images/689853666866696192/w51sPgBi.jpg",Crime District (EUROPE) (STREAM 1)
+http://live-s102.abweb.com/liveabs102/ngrp:crimedistrict.stream_bis/chunklist_b1096000.m3u8
+#EXTINF:0 tvg-logo="https://pbs.twimg.com/profile_images/689853666866696192/w51sPgBi.jpg",Crime District (EUROPE) (STREAM 2)
+http://live-s102.abweb.com/liveabs102/ngrp:crimedistrict.stream_bis/chunklist_wf1tv_b1096000.m3u8
+
+#EXTINF:0 tvg-shift="-5"  tvg-id="" tvg-name="FR France 3" tvg-logo="http://www.clairobscur.info/preview/625/l240q100bFFFFFFm/F3_Bretagne_3D_web.jpg",France 3 (EUROPE-Bretagne)
+http://streaming.racacaxtv.lescigales.org/android/fr3regions/F3_Bretagne@107869/index_832_av-p.m3u8
+
+#EXTINF:0  tvg-logo="https://pbs.twimg.com/profile_images/908741926169354240/atfB1pFZ_400x400.jpg",Global (CANADA)
+https://glblvestu-f.akamaihd.net/i/glblvestu_1@78149/master.m3u8
+
+#EXTINF:0  tvg-logo="https://pbs.twimg.com/profile_images/908741926169354240/atfB1pFZ_400x400.jpg",Global (Halifax CANADA)
+https://glblvhalifax-lh.akamaihd.net/i/glblvHalifax_1@119843/master.m3u8?__b__=900&hdnea=ip=99.18.68.202~st=1434307535~exp=1434308135~acl=/i/*~id=17e92158-bbde-4665-a37c-817c97c7569c~hmac=1afe142fae8d05bad8895371e0834b246ce53e26af2bd6090227741f043668bd
+
+#EXTINF:-1 tvg-shift="1" tvg-id=""  tvg-logo="https://www.ccapcable.com/lib/upload/2016/12/icitele_logocablo_ver_rvb-web.png",Radio-Canada (Acadie)(CANADA)
+https://srclive-lh.akamaihd.net/i/cancbaft_1@95879/master.m3u8
+
+#EXTINF:-1 tvg-shift="1" tvg-id=""  tvg-logo="https://www.ccapcable.com/lib/upload/2016/12/icitele_logocablo_ver_rvb-web.png",Radio-Canada (Est du Québec)(CANADA)
+https://srclive-lh.akamaihd.net/i/cancjbr_1@95882/master.m3u8
+
+#EXTINF:-1 tvg-shift="1" tvg-id=""  tvg-logo="https://www.ccapcable.com/lib/upload/2016/12/icitele_logocablo_ver_rvb-web.png",Radio-Canada (Estrie)(CANADA)
+https://srclive-lh.akamaihd.net/i/cancksh_1@93278/master.m3u8
+
+#EXTINF:-1 tvg-shift="1" tvg-id=""  tvg-logo="https://www.ccapcable.com/lib/upload/2016/12/icitele_logocablo_ver_rvb-web.png",Radio-Canada (Mauricie-centre du québec)(CANADA)
+https://srclive-lh.akamaihd.net/i/cancktm_1@93276/master.m3u8
+
+#EXTINF:-1 tvg-shift="1" tvg-id=""  tvg-logo="https://www.ccapcable.com/lib/upload/2016/12/icitele_logocablo_ver_rvb-web.png",Radio-Canada (Montréal)(CANADA)
+https://srclive-lh.akamaihd.net/i/cancbft_1@95875/master.m3u8
+
+#EXTINF:-1 tvg-shift="1" tvg-id=""  tvg-logo="https://www.ccapcable.com/lib/upload/2016/12/icitele_logocablo_ver_rvb-web.png",Radio-Canada (Québec)(CANADA)
+https://srclive-lh.akamaihd.net/i/cancbvt_1@93274/master.m3u8
+
+#EXTINF:-1 tvg-shift="1" tvg-id=""  tvg-logo="https://www.ccapcable.com/lib/upload/2016/12/icitele_logocablo_ver_rvb-web.png",Radio-Canada (Ottawa-Gatineau)(CANADA)
+https://srclive-lh.akamaihd.net/i/cancboft_1@192896/master.m3u8
+
+#EXTINF:-1 tvg-shift="1" tvg-id=""  tvg-logo="https://www.ccapcable.com/lib/upload/2016/12/icitele_logocablo_ver_rvb-web.png",Radio-Canada (Saguenau-Lac St-Jean)(CANADA)
+https://srclive-lh.akamaihd.net/i/web207_1@364878/master.m3u8
+
+#EXTINF:-1 tvg-shift="1" tvg-id=""  tvg-logo="https://www.ccapcable.com/lib/upload/2016/12/icitele_logocablo_ver_rvb-web.png",Radio-Canada (Ontario)(CANADA)
+https://srclive-lh.akamaihd.net/i/cancblft_1@192898/master.m3u8
+
+#EXTINF:-1 tvg-shift="1" tvg-id=""  tvg-logo="https://www.ccapcable.com/lib/upload/2016/12/icitele_logocablo_ver_rvb-web.png",Radio-Canada (-1H Winnipeg/Manitoba)(CANADA)
+https://srclive-lh.akamaihd.net/i/cancbwft_1@192900/master.m3u8
+
+#EXTINF:-1 tvg-shift="1" tvg-id=""  tvg-logo="https://www.ccapcable.com/lib/upload/2016/12/icitele_logocablo_ver_rvb-web.png",Radio-Canada (Saskatchewan)(CANADA)
+https://srclive-lh.akamaihd.net/i/cancbkft_1@192902/master.m3u8
+ 
+#EXTINF:-1 tvg-shift="1" tvg-id=""  tvg-logo="https://www.ccapcable.com/lib/upload/2016/12/icitele_logocablo_ver_rvb-web.png",Radio-Canada (-2h Edmonton/Alberta)(CANADA)
+https://srclive-lh.akamaihd.net/i/cancbxft_1@192904/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.ccapcable.com/lib/upload/2016/12/icitele_logocablo_ver_rvb-web.png",Radio-Canada (-3H Vancouver/Colombie-Britanique)(CANADA)
+https://srclive-lh.akamaihd.net/i/cancbuft_1@192906/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.ccapcable.com/lib/upload/2016/12/icirdi_logocablo_ver_rvb-web.png",RDI (CANADA)
+https://srclive-lh.akamaihd.net/i/canrdi_1@95877/master.m3u8
+
+#EXTINF:-1 tvg-logo="http://images.canadianfreestuff.com/wp-content/uploads/2015/01/shopping-channel-jan-8th.jpg",The Shopping Channel (CANADA)
+http://tscstreaming-lh.akamaihd.net/i/TSCLiveStreaming_1@91031/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/-lLgIkal0RIc/AAAAAAAAAAI/AAAAAAAAAAA/27AoksHWuAU/s900-c-k-no-mo-rj-c0xffffff/photo.jpg",Télé-Québec (CANADA)
+https://teleqmmd.mmdlive.lldns.net/teleqmmd/f386e3b206814e1f8c8c1c71c0f8e748/chunklist_b732000.m3u8
+
+#EXTINF:-1 tvg-logo="https://lh4.googleusercontent.com/-zf8ohGYdLgY/AAAAAAAAAAI/AAAAAAAAZMw/H8hqyGKLN4I/s0-c-k-no-ns/photo.jpg",TV5 Monde - Amérique latine (STREAM 1)
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TV5/tu1_1.m3u8
+#EXTINF:-1 tvg-logo="https://lh4.googleusercontent.com/-zf8ohGYdLgY/AAAAAAAAAAI/AAAAAAAAZMw/H8hqyGKLN4I/s0-c-k-no-ns/photo.jpg",TV5 Monde - Amérique latine (STREAM 2)
+http://hlslive.lcdn.une.net.co:80/v1/AUTH_HLSLIVE/TV5/tu1_manifest.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/649226291506475008/bhxaORhF.png",TV5 Monde - Info
+http://v3plusinfo247hls-i.akamaihd.net/hls/live/218877/v3plusinfo247hls/v3plusinfo247hls_1_1.m3u8
+
+#EXTINF:-1 tvg-logo="https://lh6.googleusercontent.com/-hmy3hsRv7T0/AAAAAAAAAAI/AAAAAAAAj6E/X_aY_wYBrFg/s0-c-k-no-ns/photo.jpg", The Weather Channel (USA)
+https://weather-lh.akamaihd.net/i/twc_1@92006/master.m3u8 
+
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51zTIXN1jCL.png",Weather Nation (USA)
+http://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/format/applehttp/protocol/http/uiConfId/28428751/a.m3u8
+
+#EXTINF:-1 tvg-shift="1" tvg-id=""  tvg-logo="https://static.wiiz.tv/2016/03/GongTV.jpg",GONG (EUROPE)
+http://ec.playmedia.fr/gong-base/live/chunklist_w1845022121.m3u8
+
+#EXTINF:-1 tvg-id=""  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/GONGMAX.png/235px-GONGMAX.png",GONG MAX (EUROPE)
+http://51.254.215.79/appflux/gongmax/GONGMAX/gongmax_1280/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.pictonale.net/2011/04/06/vgyflzb/mid-logo-chaine-tv-mangas.png",Manga (EUROPE)
+http://live-trl102.abweb.com/liveabtrl102/ngrp:mangas.stream_bis/chunklist_b1096000.m3u8
+
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/94/Smile_of_a_Child_TV.jpg/220px-Smile_of_a_Child_TV.jpg",Smile of a Child
+http://acaooyalahd2-lh.akamaihd.net/i/TBN04_delivery@186242/master.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://www.astra2sat.com/wp-content/uploads/capital.jpg",Capital TV (UK)
+http://ooyalahd2-f.akamaihd.net/i/globalradio01_delivery@156521/master.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/Logibh9nGBY/maxresdefault.jpg",NRJ Hits
+http://5.196.138.6:1935/live/nrjbelgique/chunklist_w1339281553.m3u8
+
+ 
+#EXTINF:-1 tvg-logo="http://www.rds.ca/img/bellmedia_rds/socialMedia.jpg",RDS (occasionnel)
+http://rdshdulive-lh.akamaihd.net/i/rdshdu1_1@110201/master.m3u8
+
+
+#EXTINF:-1 radio="true" tvg-logo="https://pbs.twimg.com/profile_images/768423319007789056/abR53rfa.jpg" group-title="RADIO", 094,3 Énergie  (Montréal)
+http://17493.live.streamtheworld.com/CKMFFMAAC.aac?tdsdk=js-2.9&pname=TDSdk&pversion=2.9&banners=none&sbmid=dd98336f-4656-4d58-dac4-9f46a256d3fd
+ 
+#EXTINF:-1 radio="true" tvg-logo="http://www.centraltv.fr/wp-content/uploads/radio-ckoi-96-9-montreal.jpg" group-title="RADIO",096.9 CKOI (Montréal)
+http://ckoi-lh.akamaihd.net/i/studioaudio_1@393649/index_64_a-p.m3u8?sd=10&rebase=on
+ 
+#EXTINF:-1 radio="true"  tvg-logo="http://cdn.reezom.net/wp-content/uploads/o-97-3-meilleur-musique.jpeg" group-title="RADIO",097.3
+http://stream.statsradio.com:8012/stream
+ 
+#EXTINF:-1 radio="true"  tvg-logo="http://is2.mzstatic.com/image/thumb/Purple18/v4/5f/6e/f2/5f6ef2ba-99e2-f765-b19a-ec340528fb72/source/175x175bb.jpg" group-title="RADIO",097.7 CHOM FM
+
+#EXTINF:-1 radio="true"  tvg-logo="http://www.mix997.com/images/mix/logo.png" group-title="RADIO",099.7 MIX (Saint-Géorges de Beauce)
+http://podcast.servlinks.com/mix/lecture/1492440646141
+
+#EXTINF:-1 radio="true" tvg-logo="https://lh3.googleusercontent.com/dwlljB3-AoO1SC6H2pS_AIGPfG3uK476LAUiJ3pS3CcrfZby4OMkQ0_24I5gtUJgD1ve=w300" group-title="RADIO",102.7 Rouge FM (Sherbrooke)
+http://18893.live.streamtheworld.com/CITE1FMAAC.aac?tdsdk=js-2.9&pname=TDSdk&pversion=2.9&banners=none&sbmid=a0549195-4c6d-4efc-f32b-1e2af1b9140e
+
+#EXTINF:-1 radio="true" tvg-logo="http://plaisir1067.com/Content/Images/logo-plaisir1067.png" group-title="RADIO",106.7 Plaisir (Lac-Mégantic)
+http://stream.statsradio.com:8008/stream
+
+#EXTINF:-1 radio="true"  tvg-logo="http://www.listenradios.com/en/wp-content/uploads/2016/08/CBAL.jpg" group-title="RADIO",Radio-Canada Musique (Sherbroke)
+http://7qshe0.akacast.akamaistream.net/7/504/177413/v1/rc.akacast.akamaistream.net/7QSHE0
+
+#EXTINF:-1 radio="true"  tvg-logo="http://www.listenradios.com/en/wp-content/uploads/2016/08/CBAL.jpg" group-title="RADIO",Radio-Canada Musique (Colombie-Britanique/Yukon))
+http://sp01radio.akacast.akamaistream.net/7/481/177425/v1/rc.akacast.akamaistream.net/SP01RADIO
+
+#EXTINF:-1 radio="true"  tvg-logo="http://db.radioline.fr/pictures/radio_fc079a4d46e49a0b6dcff84468d40f90/logo200.jpg?size=200" group-title="RADIO",Radio-Canada Premiere Sherbrooke
+http://2qshe0.akacast.akamaistream.net/7/329/177400/v1/rc.akacast.akamaistream.net/2QSHE0
